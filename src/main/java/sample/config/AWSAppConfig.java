@@ -1,4 +1,4 @@
-package hello.config;
+package sample.config;
 
 import com.amazonaws.auth.BasicSessionCredentials;
 import com.amazonaws.services.securitytoken.model.Credentials;

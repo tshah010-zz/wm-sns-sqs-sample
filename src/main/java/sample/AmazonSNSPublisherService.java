@@ -1,7 +1,6 @@
-package hello;
+package sample;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Service;
 
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
