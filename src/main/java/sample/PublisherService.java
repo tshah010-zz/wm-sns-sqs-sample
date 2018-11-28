@@ -8,5 +8,5 @@ public interface PublisherService {
     //
     // Publish Message API
     //
-    void publish(String message, String topic) throws Exception;
+    void publish(String message, String topic) throws Exception;    
 }
